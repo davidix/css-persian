@@ -11,7 +11,7 @@ Usage
 ------------------
 Copy whole this project file into your `web root`
 
-Include [fonts.css](https://github.com/intuxicated/css-persian/blob/master/css/fonts.css "fonts.css") or [fonts.min.css](https://github.com/intuxicated/css-persian/blob/master/css/fonts.min.css "fonts.min.css") between `<head>` and `</head>` tag.
+Include [fonts.css](https://github.com/davidix/css-persian/blob/master/css/fonts.css "fonts.css") or [fonts.min.css](https://github.com/davidix/css-persian/blob/master/css/fonts.min.css "fonts.min.css") between `<head>` and `</head>` tag.
 
 	<link rel="stylesheet" href="css/fonts.css" />
 	<!-- or use fonts.min.css -->
