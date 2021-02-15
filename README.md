@@ -57,8 +57,4 @@ Browser Compatibility
 	Opera    >= 11
 	Chromium >= 13
 
-`No guarantee for internet explorer , but might work on IE6 and higher`
-	
 
-Special thanks to : [wedesign.ir](http://www.wedesign.ir/css/css3-font-face-methods-and-optimized-font-firefox6 "wedesign.ir")	
-	
