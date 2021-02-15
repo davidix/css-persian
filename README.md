@@ -23,7 +23,7 @@ and in your css file
 	
 replace `FONT-NAME` with available fonts like `BBadr`,`IranianSans` or etc. 
 
-Available Fonts (41 Fonts)
+Available Fonts (42 Fonts)
 ------------------
 
 	BBadr				BMorvarid
@@ -47,7 +47,7 @@ Available Fonts (41 Fonts)
 	BMehrBold			BZiba
 	BMitra				BFantezy
 	
-	IranianSans
+	IranianSans			IranNastaliq
 
 	
 Browser Compatibility 

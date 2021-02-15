@@ -291,3 +291,10 @@
        url('../fonts/IranNastaliq.woff') format('woff'),
        url('../fonts/IranNastaliq.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: 'IranNastaliq';
+  src: url('../fonts/IranNastaliq.eot?#') format('eot'),
+       url('../fonts/IranNastaliq.woff') format('woff'),
+       url('../fonts/IranNastaliq.ttf') format('truetype');
+}
